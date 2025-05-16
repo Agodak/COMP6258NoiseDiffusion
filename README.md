@@ -80,6 +80,12 @@ source_ldm_experiments.py --ckpt trial/trial.pth --image1 bed1.png --image2 bed2
 
 ---
 
+## Some Results
+
+### AI and Natural Image Interpolation
+![AI Image](https://github.com/user-attachments/assets/9e698835-0d7a-4d41-bac9-77022d796a36)
+
+
 ## References
 
 - **NoiseDiffusion (Zheng et al., ICLR 2024)**  
