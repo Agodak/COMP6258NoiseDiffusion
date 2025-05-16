@@ -24,8 +24,6 @@ We reimplemented the core interpolation strategies using diffusion models and pe
   - Spherical Linear Interpolation (Slerp)
   - Noise Injection (à la SDEdit)
   - NoiseDiffusion (proposed method)
-- Applies boundary clipping and noise parameter tuning
-- Includes LDM (Latent Diffusion Model) components and ControlNet logic
 
 ---
 
@@ -79,16 +77,6 @@ python controlnet_boundary_mu_experiments.py --image1 bed1.png --image2 bed2.png
 ```bash
 source_ldm_experiments.py --ckpt trial/trial.pth --image1 bed1.png --image2 bed2.png --output results/source_interpolated.png --frac 0.1 0.3 0.5 --method noise_diffusion --timesteps 140
 ```
-
----
-
-## Methods Implemented
-
-| Method              | Description |
-|---------------------|-------------|
-| Slerp               | Interpolation in noise space with `slerp()` |
-| SDEdit              | Gaussian noise added to image then denoised |
-| NoiseDiffusion      | Mix of encoded images, clipped noise, raw images, and constrained sampling |
 
 ---
 
