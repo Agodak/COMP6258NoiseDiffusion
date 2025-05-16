@@ -91,6 +91,8 @@ More results with varying other parameters can be found in the repository.
 ### AI and Natural Image Interpolation
 ![image](https://github.com/user-attachments/assets/68a98bab-a714-4d38-8d85-42aae5880be7)
 
+### Interpolation between faces
+![image](https://github.com/user-attachments/assets/9b83817e-1c76-4d17-aa5f-a2b5500407fa)
 
  
 ## References
