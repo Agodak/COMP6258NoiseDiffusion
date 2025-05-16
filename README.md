@@ -83,7 +83,8 @@ source_ldm_experiments.py --ckpt trial/trial.pth --image1 bed1.png --image2 bed2
 ## Some Results
 
 ### AI and Natural Image Interpolation
-![AI Image](https://github.com/user-attachments/assets/9e698835-0d7a-4d41-bac9-77022d796a36)
+![image](https://github.com/user-attachments/assets/68a98bab-a714-4d38-8d85-42aae5880be7)
+
 
 
 ## References
