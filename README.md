@@ -82,11 +82,17 @@ source_ldm_experiments.py --ckpt trial/trial.pth --image1 bed1.png --image2 bed2
 
 ## Some Results
 
+### Varying NoiseDiffusion Parameters
+![image](https://github.com/user-attachments/assets/f07e58e8-8926-4c25-8f6c-ea4f7279a538)
+
+
+More results with varying other parameters can be found in the repository.
+
 ### AI and Natural Image Interpolation
 ![image](https://github.com/user-attachments/assets/68a98bab-a714-4d38-8d85-42aae5880be7)
 
 
-
+ 
 ## References
 
 - **NoiseDiffusion (Zheng et al., ICLR 2024)**  
