@@ -109,6 +109,6 @@ source_ldm_experiments.py --ckpt trial/trial.pth --image1 bed1.png --image2 bed2
 
 ## Acknowledgements
 
-This work reproduces and builds on the official [NoiseDiffusion](https://github.com/tmlr-group/NoiseDiffusion) paper and codebase. We also utilize Latent Diffusion Models and ControlNet for additional image control and quality.
+This work reproduces and builds on the official [NoiseDiffusion](https://openreview.net/forum?id=6O3Q6AFUTu&referrer=%5Bthe%20profile%20of%20PengFei%20Zheng%5D(%2Fprofile%3Fid%3D~PengFei_Zheng2)) paper and codebase. We also utilize Latent Diffusion Models and ControlNet for additional image control and quality.
 
 
