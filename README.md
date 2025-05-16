@@ -38,9 +38,9 @@ COMP6258NoiseDiffusion-main/
 ├── ldm/                         # Latent diffusion model modules
 │   
 ├── controlnet_boundary_mu_experiments.py   # Experiments using ControlNet & mu/clip values
-├── ldm_parameter_experiments.py            # Latent diffusion model interpolation experiments
+├── ldm_parameter_experiments.py            # Latent diffusion model interpolation experiments, model taken from Huggingface
 ├── parameter_experiments.py                # Runs multiple parameter experiments
-├── source_ldm_experiments.py               # Source image interpolation (e.g. LSUN, SD)
+├── source_ldm_experiments.py               # Loads ldm model from the source and performs interpolation
 ├── environment.yaml                        # Conda environment dependencies
 ├── README.md                               
 ```
